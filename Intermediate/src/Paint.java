@@ -55,7 +55,7 @@ public class Paint {
 			if(cost < bestVal || bestVal == 0)
 			{
 				bestVal = cost;
-				//System.out.println(total);
+				System.out.println(total + " is the total");
 				best = i;
 			}
 		}
