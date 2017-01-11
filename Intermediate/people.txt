@@ -1,0 +1,5 @@
+Dave,Thundercat,20
+Percy,Heal Bird,15
+Marvin,Statue,12
+Steevie,Golden Boss Man,35
+Freddie,Fire Elemental,45
